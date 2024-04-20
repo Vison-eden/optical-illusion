@@ -1,5 +1,5 @@
 # optical-illusion
-![Main study](https://github.com/Vison-eden/optical-illusion/edit/main/graphical.png)
+![image](https://github.com/Vison-eden/optical-illusion/blob/main/Graphical.png)
 
 Research on optical illusion by using deep neural networks.
 Illusion dataset can be ontained by the following link:
